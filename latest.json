@@ -1,11 +1,11 @@
 {
-  "version": "0.1.17",
+  "version": "0.1.18",
   "notes": "Critical bug fixes and performance improvements.",
-  "pub_date": "2025-12-24T16:42:55.570Z",
+  "pub_date": "2025-12-24T19:19:38.869Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3lJUWtranJSYXZ1cnVQelFrVjhWOEFIMU9ISTJrc0JTNkhuM056aEFrbXQvVXJNbldPWE9ZYmYrT1prRWZ0cVJ2MmhtaEtwcmFydS9Zd2E5aUtDWk9saFpxRXZJcGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NTk0NTc1CWZpbGU6dG9vbDR0b29sXzAuMS4xN194NjQtc2V0dXAuZXhlCks3QlNWM3ZKQ1IyMVhSN3NRNDZLMjhRL3cvTnNqWWdoOExDd0lOSTQ5WnNrTXRoa0lvUWFvT3V1WXRMQURGWEg3R2FiVm5OUXlZTy9mYjBBbllZVURRPT0K",
-      "url": "https://github.com/ooooffio/tool4tool-releases/raw/main/tool4tool_0.1.17_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3lJUWtranJSYXQvUUZtMk9obFRYYUVva2l0VXoyRm0vSmg3VSt6VFltdnZNTnBMSTc5ZFZvWDFTZEFiVkpnaURmeGFPUVplcW9zbWhKN3NEVHhzZkZWM0ZoUUFHL1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NjAzOTc4CWZpbGU6dG9vbDR0b29sXzAuMS4xOF94NjQtc2V0dXAuZXhlCjEzdFlLZERGanpXeHh3cEV3Rmk5d21MTk9kbHVhMjdXc3g5QTFRVktqajFBT2JCaDdnZC8rZ1I0MERIZ1NNWlF2Y1oydytMZzg2Q3J1S2xZV0JWL0FnPT0K",
+      "url": "https://github.com/ooooffio/tool4tool-releases/raw/main/tool4tool_0.1.18_x64-setup.exe"
     },
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlV...",
